@@ -1,0 +1,50 @@
+## 概要
+- この内容は2021年1月~5月中頃まで通ったスクールの課題になります。<br>
+- スクール名：DIVE INTO CODE  機械学習エンジニアコース <br>
+
+## 内容
+- week1~4課題 
+    - [Python入門授業課題1 曽呂利新左衛門問題](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week1_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week1_task1.ipynb)
+    - [Python入門授業課題2　何回折ったら富士山を越えるか問題](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week1_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week1_task2.ipynb)
+    - [Python入門授業課題3 栗まんじゅう問題](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week1_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week1_task3.ipynb)
+    - [機械学習のための数学授業前課題1 小麦とチェス盤問題](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week2_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week2_%E4%BA%8B%E5%89%8D%E5%AD%A6%E7%BF%921.ipynb)
+    - [機械学習のための数学授業前課題2 ダミーデータ作成](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week2_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week2_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C2.ipynb)
+    - [機械学習のための数学授業前課題3 行列積のスクラッチ](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week2_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week2_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C3.ipynb)
+    - [機械学習のための数学授業課題1 二次元配列と勾配問題](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week2_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week2_task1.ipynb)
+    - [機械学習のための数学授業課題2 富士下山問題](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week2_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week2_task2.ipynb)
+    - [探索的データ分析授業前課題1 アヤメの分析](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week3_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week3_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C1.ipynb)
+    - [探索的データ分析授業前課題1 住宅情報の分析](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week3_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week3_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C2.ipynb)
+    - [探索的データ分析授業前課題1 信用情報の分析](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week3_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week3_task.ipynb)
+    - [機械学習入門授業前課題1 アヤメの分類](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C1.ipynb)
+    - [機械学習入門授業前課題2 住宅価格の予測](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C2.ipynb)
+    - [機械学習入門授業前課題3 オブジェクト指向の活用](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week3_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C3.ipynb)
+    - [機械学習入門授業課題 信用情報の学習](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week4_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C1.ipynb)
+- week5~8課題
+    - [Sprint1 機械学習スクラッチ入門](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week5_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week5_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C1.ipynb)
+    - [Sprint2 機械学習フロー](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week5_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week5_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C1.ipynb)
+    - [Sprint3 機械学習スクラッチ 線型回帰](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week5_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week5_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C2.ipynb)
+    - [Sprint4 機械学習スクラッチ ロジスティック回帰](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week5_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week6_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C3.ipynb)
+    - [Sprint5 機械学習スクラッチ SVM](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week6_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week6_SVM.ipynb)
+    - [Sprint6 機械学習スクラッチ 決定木](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week7_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week7_%E6%B1%BA%E5%AE%9A%E6%9C%A8.ipynb)
+    - [Sprint7 機械学習スクラッチ クラスタリング](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week7_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/K-means.ipynb)
+    - [Sprint8 機械学習スクラッチ アンサンブル学習](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week8_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%E5%AD%A6%E7%BF%92.ipynb)
+- week9~12課題
+    - [Sprint9 深層学習スクラッチ NN](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week8_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week8_NN.ipynb)
+    - [Sprint10 深層学習スクラッチ DNN](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week9%E8%AA%B2%E9%A1%8C/DNN%EF%BC%88%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%EF%BC%89.ipynb)
+    - [Sprint11 深層学習スクラッチ CNN1d](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week9%E8%AA%B2%E9%A1%8C/week9_CNN1d.ipynb)
+    - [Sprint12 深層学習スクラッチ CNN2d](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week9%E8%AA%B2%E9%A1%8C/week9_CNN2d.ipynb)
+    - [Sprint13 ディープラーニング TensorFlow_framework1系](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week10%E8%AA%B2%E9%A1%8C/week10_tensorflow_framework.ipynb)
+    - [Sprint14 ディープラーニング TensorFlow_framework2系](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week10%E8%AA%B2%E9%A1%8C/week10_tensorflow_framework2.ipynb)
+    - [Sprint15 論文読解入門](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week11%E8%AA%B2%E9%A1%8C/week11_%E8%AB%96%E6%96%87%E8%A7%A3%E6%9E%90.ipynb)
+    - [Sprint16 論文紹介](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week11%E8%AA%B2%E9%A1%8C/week11_%E8%AB%96%E6%96%87%E8%A7%A3%E6%9E%902.ipynb)
+    - [Sprint17 論文実装](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week12%E8%AA%B2%E9%A1%8C/week12_%E8%AB%96%E6%96%87%E5%AE%9F%E8%A3%85.ipynb)
+    - [Sprint18 Data Augmentation](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week12%E8%AA%B2%E9%A1%8C/week12_DataAugmentation.ipynb)
+    - [Sprint19 セグメンテーション](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week12%E8%AA%B2%E9%A1%8C/week12_segmentation.ipynb)
+    - [Sprint20 転移学習](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week9~12%E8%AA%B2%E9%A1%8C/week12%E8%AA%B2%E9%A1%8C/week12_%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92.ipynb)
+- week13~15課題
+    - [Sprint21 自然言語処理(NLP)](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week13~15%E8%AA%B2%E9%A1%8C/week13_%E8%AA%B2%E9%A1%8C/week13_NLP.ipynb)
+    - [Sprint22 深層学習スクラッチ RNN](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week13~15%E8%AA%B2%E9%A1%8C/week13_%E8%AA%B2%E9%A1%8C/week13_RNN.ipynb)
+    - [Sprint23 深層学習 LSTM](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week13~15%E8%AA%B2%E9%A1%8C/week14_%E8%AA%B2%E9%A1%8C/week14_LSTM.ipynb)
+    - [Sprint24 Seq2Seq](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week13~15%E8%AA%B2%E9%A1%8C/week14_%E8%AA%B2%E9%A1%8C/week14_Seq2Seq.ipynb)
+- 卒業課題
+    - [Sprint25 卒業課題(文章校正AI)](https://github.com/yuki-tatsuoka/diveintocode/tree/master/%E5%8D%92%E6%A5%AD%E8%AA%B2%E9%A1%8C)
