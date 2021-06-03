@@ -1,6 +1,7 @@
 ## 概要
 - この内容は2021年1月~5月中頃まで通ったスクールの課題になります。<br>
 - スクール名：DIVE INTO CODE  機械学習エンジニアコース <br>
+- もし表示されない場合、1つ前のフォルダ構成に戻りファイルを選択してご覧ください。
 
 ## 内容
 - week1~4課題 
@@ -17,7 +18,6 @@
     - [探索的データ分析授業前課題1 信用情報の分析](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week3_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week3_task.ipynb)
     - [機械学習入門授業前課題1 アヤメの分類](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C1.ipynb)
     - [機械学習入門授業前課題2 住宅価格の予測](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C2.ipynb)
-    - [機械学習入門授業前課題3 オブジェクト指向の活用](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week3_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C3.ipynb)
     - [機械学習入門授業課題 信用情報の学習](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week1~4%E8%AA%B2%E9%A1%8C/week4_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C/week4_%E6%8E%88%E6%A5%AD%E8%AA%B2%E9%A1%8C1.ipynb)
 - week5~8課題
     - [Sprint1 機械学習スクラッチ入門](https://github.com/yuki-tatsuoka/diveintocode/blob/master/week5~8%E8%AA%B2%E9%A1%8C/week5_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C/week5_%E4%BA%8B%E5%89%8D%E8%AA%B2%E9%A1%8C1.ipynb)
